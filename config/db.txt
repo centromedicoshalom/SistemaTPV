@@ -1,7 +1,7 @@
 localhost
 db_clinica
 root
-ClinicStaff123
+Y2kdeeda1!
 amilat2018
 
 nest2015
